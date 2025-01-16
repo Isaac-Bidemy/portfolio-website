@@ -7,18 +7,18 @@ const Process = () =>{
     const data = [
         {
             id: "01",
-            title: "Product Management.",
+            title: "Web Developer.",
             contents: ["Product Development: Led the development and mentorship of students, from concept to delivery, resulting in desirable outcomes, e.g.,25% increase in growth of the companies. Product Strategy: Defined and executed product vision, mission, and roadmap, aligning with business goals and objectives"] 
         },
         
         {
             id: "02",
-            title: "Product Design Facilitation & Training",
-            contents: ["Design Thinking Workshops: Facilitated design thinking workshops and training sessions for students at Leinad Studio. Mentorship & Coaching: Mentored and guided students in designing and prototyping products, from ideation to testing"] 
+            title: "React Design Facilitation & Training",
+            contents: ["Design Thinking Workshops: Facilitated design thinking workshops and training sessions for students at New Horizon ikeja. Mentorship & Coaching: Mentored and guided students in developing  products, from design to testing"] 
         },
         {
             id: "03",
-            title: "Product Design",
+            title: "Product Design and Development",
             contents: ["Implemented a design approach to improve the user experience through user-centered design principles. Executed the creation of comprehensive wireframes, navigation flows, and visually captivating design mockups; facilitated user testing sessions to gather valuable feedback, resulting in a 25% improvement in user satisfaction."] 
         }
     ]

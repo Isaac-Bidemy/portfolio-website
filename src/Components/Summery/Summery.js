@@ -6,12 +6,12 @@ const Summery = () => {
     <section id="summery" data-aos="fade-right">
       <div className="summery-heading">
         <strong>My Skills</strong>
-        <h2>Product Design</h2>
+        <h2>website developer</h2>
         <h2>Product Management</h2>
         <h2>Communication</h2>
         <h2>Collaboration</h2>
         <a
-          href="https://drive.google.com/file/d/1-LbqMHSsi3xqgO1Bz732r7J4lqwVN3rH/view?usp=sharing"
+          href="#"
           download
           className="btn-link"
         >
@@ -21,10 +21,7 @@ const Summery = () => {
       </div>
       <div className="summery-details" data-aos="fade-left">
         <p>
-          Figma, InDesign, Miro, Trello, Asana, Adobe illustrator, Adobe
-          Photoshop, Sketch, Google Form, Go-to-market strategy, product
-          promotion, competitive analysis, thinking skills,B2C, B2B, B2C
-          marketing strategy, tech training, user experience, mobile user
+          Html, Css, Bootstrap, java script, React js, TailwindCss, ReactNative, wordpress, Figma, Git, VScode, tech training, user experience, mobile user
           experience, customer relationship management(crm), user interface,
           training delivery, (KPI) key performance indicator, product Life
           cycle. Product Life, product design, product launch, wireframing, user

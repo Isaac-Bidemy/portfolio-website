@@ -7,27 +7,37 @@ const Carrer = () =>{
 
     const carrers = [
         {
-            title: "Product Design",
+            title: "Front-end sofware developer.",
             name: "Senior",
             year: "2022-Present"
         },
         {
-            title: "Product Management.",
+            title: "Bank Sales officer.",
             name: "Senior",
+            year: "2024"
+        },
+        {
+            title: "Trucker.",
+            name: "Manager",
             year: "2020-2022"
         },
 
     ]
     const educations = [
         {
-            title: "University of Lagos, Nigeria",
-            name: "Bachelor of Science of Cell Biology and Genetics",
-            year: "2017 - 2024"
+            title: "University of Ilorin, Nigeria",
+            name: "Bachelor of Science of Information and Commmnication Science",
+            year: "2016 - 2022"
+        },
+        {
+            title: "New horizons Ikeja, Lagos, Nigeria",
+            name: "Frontend software Development Certification",
+            year: "2024 - 2025"
         },
         {
             title: "Academic project",
-            name: "Isolation and detection of genetic variabilityg",
-            year: "2023-2024"
+            name: "Development of Webbase (LGP) Sales System ",
+            year: "2021-2022"
         },
     ]
     return (
@@ -74,7 +84,7 @@ const Carrer = () =>{
                 
             </div>
             <div className="btn-c">
-                    <a href="https://drive.google.com/file/d/1-LbqMHSsi3xqgO1Bz732r7J4lqwVN3rH/view?usp=sharing" download className="btn-link">
+                    <a href="#" download className="btn-link">
                         Get CV <i className="fa-solid fa-download"></i>
                     </a>
 

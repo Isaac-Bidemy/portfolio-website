@@ -6,15 +6,13 @@ const Footer = () => {
     <footer>
       <span>Copyright &copy;2024</span>
       <div className="social-links">
-        <a href="https://www.linkedin.com/in/raymond-okoh/">
+        <a href="https:www.linkedin.com/in/isaac-owope-74a561347">
           <i className="fa-brands fa-linkedin"></i>
         </a>
-        <a href="https://www.behance.net/rayokoh">
-              <i className="fa-brands fa-behance"></i>
-            </a>
+        
       </div>
-      <a href="#!" className="footer-logo">
-        raymond*
+      <a href="#" className="footer-logo">
+        ---BIDEMY---
       </a>
     </footer>
   );

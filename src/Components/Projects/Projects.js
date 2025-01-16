@@ -4,9 +4,15 @@ import React from 'react';
 
 
 import "./Projects.css";
-import Project1 from "../../assets/images/project1.jpg";
-import Project2 from "../../assets/images/project2.jpg";
-import Project3 from "../../assets/images/project3.jpg";
+import Project1 from "../../assets/images/project1.png";
+import Project2 from "../../assets/images/project2.png";
+import Project3 from "../../assets/images/project3.png";
+import Project4 from "../../assets/images/wild.png";
+import Project5 from "../../assets/images/111.png";
+import Project6 from "../../assets/images/project1.png";
+import Project7 from "../../assets/images/wild.png";
+
+
 
 
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -35,6 +41,22 @@ const Projects = () =>{
         },
         {
             src: Project3,
+            url: "https://www.behance.net/gallery/187105467/Errand-App"
+        },
+        {
+            src: Project4,
+            url: "https://www.behance.net/gallery/187105467/Errand-App"
+        },
+        {
+            src: Project5,
+            url: "https://www.behance.net/gallery/187105467/Errand-App"
+        },
+        {
+            src: Project6,
+            url: "https://www.behance.net/gallery/187105467/Errand-App"
+        },
+        {
+            src: Project7,
             url: "https://www.behance.net/gallery/187105467/Errand-App"
         },
      

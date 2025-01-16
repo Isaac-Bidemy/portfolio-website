@@ -1,49 +1,38 @@
 import React from "react";
 import "./Home.css";
-import raymond from "../../assets/images/raymond.jpg";
+import raymond from "../../assets/images/isaac.jpg";
 
 const Home = () => {
   return (
     <section id="home">
-      <div className="home-text" data-aos="fade-down">
+      <div className="home-text" data-aos="flip-left">
         <strong>Hello, I'm</strong>
-        <h1>RAYMOND OKOH</h1>
+        <h1> ISAAC BIDEMY</h1>
         <p>
-          I am a seasoned Product Designer and Project Manager with over three
-          years of experience, committed to delivering exceptional digital
-          solutions. Skilled in both design and project management, I excel at
-          transforming creative concepts into user-friendly and visually
-          appealing products. My expertise includes user-centered design
-          principles, ensuring that every project balances aesthetics with
-          functionality. Proficient in leading cross-functional teams and
-          managing project timelines, I ensure that all aspects of development
-          are executed efficiently and effectively. My focus on aligning design
-          strategies with business goals has consistently resulted in successful
-          project outcomes and enhanced user experiences. 
+          I am a passionate and detail-driven Front-end Software Developer with a strong focus on crafting intuitive, user-friendly, and visually stunning digital experiences. With expertise in HTML, CSS, JavaScript, React, TailwindCss, ReactNative, wordpress, Figma, Git, VScode, and various front-end frameworks, I bring a unique blend of creativity and technical expertise to every project I undertake. I'm excited to collaborate with others and push the boundaries of what's possible in the world of front-end development."
+
         </p>
         <a href="#summery" className="btn-link">
           Scroll Down
         </a>
       </div>
-      <div className="home-img" data-aos="fade-up">
+      <div className="home-img" data-aos="fade-right"  data-aos-duration="9000000">
         <div className="img-box">
-          <img src={raymond} alt="martins" />
+          <img src={raymond} alt="Isaac-Bidemy" />
           <h2>
-            Raymond Okoh <br /> <br />
-            {/* <span> FullStack Developer </span> */}
+            ISAAC BIDEMY <br /> <br />
+           <span> Front-End Developer </span> 
           </h2>
           <div className="social">
             {/* <a href="https://www.facebook.com/profile.php?id=100086715874671">
               <i className="fa-brands fa-facebook"></i>
             </a> */}
-            <a href="https://www.linkedin.com/in/raymond-okoh/">
+            <a href="www.linkedin.com/in/isaac-owope-74a561347">
               <i className="fa-brands fa-linkedin"></i>
             </a>
-            <a href="https://www.behance.net/rayokoh">
-              <i className="fa-brands fa-behance"></i>
-            </a>
+            
           </div>
-          <a href="mailto:raymondokoh18@gmail.com" className="hire-me">
+          <a href="mailto:isaacowope@gmail.com" className="hire-me">
             Hire me
           </a>
         </div>

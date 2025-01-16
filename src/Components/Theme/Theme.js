@@ -7,11 +7,12 @@ const Theme = ()=>{
 
     useEffect (()=>{
         if (dark){
-            document.documentElement.style.setProperty('--bgColor', '#0b102d');
-            document.documentElement.style.setProperty('--whiteColor', '#faf4f4');
+            document.documentElement.style.setProperty('--bgColor', '#12100E');
+            document.documentElement.style.setProperty('--whiteColor', '#D6CDC6');
         }else{
-            document.documentElement.style.setProperty('--bgColor', '#faf4f4');
-            document.documentElement.style.setProperty('--whiteColor', '#0a0c53');
+            document.documentElement.style.setProperty('--bgColor', '#352e26');
+            document.documentElement.style.setProperty('--whiteColor', '#CDD5DB');
+            
         }
 
     }, [dark])

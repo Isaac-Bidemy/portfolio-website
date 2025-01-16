@@ -1,7 +1,9 @@
 #process{
     width: 100%;
+    
 }
 .process-container{
+    
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 100px;
