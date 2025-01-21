@@ -84,7 +84,7 @@ const Carrer = () =>{
                 
             </div>
             <div className="btn-c">
-                    <a href="#" download className="btn-link">
+                    <a href="https://docs.google.com/document/d/1jG6Et30BsiuvY54NQxmVE522thNYl_ag/edit?usp=sharing&ouid=105305121172716761672&rtpof=true&sd=true" download className="btn-link">
                         Get CV <i className="fa-solid fa-download"></i>
                     </a>
 
