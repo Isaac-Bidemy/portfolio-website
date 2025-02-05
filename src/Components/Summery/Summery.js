@@ -11,7 +11,7 @@ const Summery = () => {
         <h2>Communication</h2>
         <h2>Collaboration</h2>
         <a
-          href="#"
+          href="https://docs.google.com/document/d/1jG6Et30BsiuvY54NQxmVE522thNYl_ag/edit?usp=sharing&ouid=105305121172716761672&rtpof=true&sd=true"
           download
           className="btn-link"
         >

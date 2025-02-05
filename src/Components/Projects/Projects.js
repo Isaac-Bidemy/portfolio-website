@@ -118,7 +118,7 @@ const Projects = () =>{
 
 
             <div className="github-link">
-                <a href="https://drive.google.com/file/d/1-LbqMHSsi3xqgO1Bz732r7J4lqwVN3rH/view?usp=sharing" className="btn-link">
+                <a href="https://docs.google.com/document/d/1jG6Et30BsiuvY54NQxmVE522thNYl_ag/edit?usp=sharing&ouid=105305121172716761672&rtpof=true&sd=true" className="btn-link">
                 My Resume
                 </a>
 
