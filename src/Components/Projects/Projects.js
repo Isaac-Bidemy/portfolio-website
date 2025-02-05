@@ -33,31 +33,31 @@ const Projects = () =>{
     const data = [
         {
             src: Project1,
-            url: "https://www.behance.net/gallery/197642639/FoodHub-A-Delectable-Online-Marketplace-"
+            url: "#"
         },
         {
             src: Project2,
-            url: "https://www.behance.net/gallery/194400829/Express-Bank-App"
+            url: "#"
         },
         {
             src: Project3,
-            url: "https://www.behance.net/gallery/187105467/Errand-App"
+            url: "#"
         },
         {
             src: Project4,
-            url: "https://www.behance.net/gallery/187105467/Errand-App"
+            url: "#"
         },
         {
             src: Project5,
-            url: "https://www.behance.net/gallery/187105467/Errand-App"
+            url: "#"
         },
         {
             src: Project6,
-            url: "https://www.behance.net/gallery/187105467/Errand-App"
+            url: "#"
         },
         {
             src: Project7,
-            url: "https://www.behance.net/gallery/187105467/Errand-App"
+            url: "#"
         },
      
     ]
